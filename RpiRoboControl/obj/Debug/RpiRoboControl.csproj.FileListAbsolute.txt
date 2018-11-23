@@ -1,0 +1,7 @@
+C:\Users\Dangou\Source\Repos\RpiRoboControl\RpiRoboControl\bin\Debug\RpiRoboControl.exe.config
+C:\Users\Dangou\Source\Repos\RpiRoboControl\RpiRoboControl\bin\Debug\RpiRoboControl.exe
+C:\Users\Dangou\Source\Repos\RpiRoboControl\RpiRoboControl\bin\Debug\RpiRoboControl.pdb
+C:\Users\Dangou\Source\Repos\RpiRoboControl\RpiRoboControl\obj\Debug\RpiRoboControl.csprojAssemblyReference.cache
+C:\Users\Dangou\Source\Repos\RpiRoboControl\RpiRoboControl\obj\Debug\RpiRoboControl.csproj.CoreCompileInputs.cache
+C:\Users\Dangou\Source\Repos\RpiRoboControl\RpiRoboControl\obj\Debug\RpiRoboControl.exe
+C:\Users\Dangou\Source\Repos\RpiRoboControl\RpiRoboControl\obj\Debug\RpiRoboControl.pdb
