@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 RPI => MSH
+=======
+>>>>>>> afcf38b842bb799a5ca0d5ca2982c721b4d44ebb
 5v = 5v
 g = 7
 
