@@ -32,9 +32,9 @@ def cpu_state():
 
 # For BOARD pin numbering use AMSpi(True) otherwise BCM is used
 with AMSpi() as amspi:
-
+	
 	amspi.set_74HC595_pins(7, 8, 25)
-	amspi.set_L293D_pins(22, 10, 9, 11)
+	amspi.set_L293D_pins(15, 18, 23, 24)
 
 	amspi.stop_dc_motors([amspi.DC_Motor_3, amspi.DC_Motor_4])
 
